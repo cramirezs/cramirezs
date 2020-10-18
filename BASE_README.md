@@ -6,9 +6,11 @@
 + Bioinformatics and software development
 + Gene regulation
 + Single-cell
-- I am looking for a PhD Programme where expand and develop further my skills.
+- I am currently looking for a PhD Programme where expand and develop further my skills and the above interests.
 
-This table is automatically updated every eight hours with a list of Twitter users who have followed me and unfollowed me. I used Github Actions, the Twitter API, and the python package tweepy to automate this workflow.
+Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com or on (Twitter)[https://twitter.com/cramsuig].
+
+This table is automatically updated every eight hours with a list of Twitter users who have followed me and unfollowed me. (Sina)[https://github.com/sbooeshaghi] used Github Actions, the Twitter API, and the python package tweepy to automate this workflow.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
