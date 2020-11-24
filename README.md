@@ -14,4 +14,4 @@ This table is automatically updated every eight hours with a list of Twitter use
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Mon Nov 23 16:14:49 UTC 2020
+Tue Nov 24 00:25:20 UTC 2020
