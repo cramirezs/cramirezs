@@ -1,1 +1,0 @@
-For cramsuig tweepy.TweepError= Failed to send request: Only unicode objects are escapable. Got None of type <class 'NoneType'>.
