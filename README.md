@@ -14,10 +14,4 @@ This table is automatically updated every eight hours with a list of Twitter use
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|o5jJtMJwRl0QaabPX5Cdq7f1S|
-|-|8ykGoOldmHL0D0Pv4TfLikhY5gtDvldV22F2ILijlGYyMbADTl|
-|-|2348651125-i8m0qwQ9Pn2JUEL1DtQ57FxtQQ2Axo2jH2Kxvz4|
-|-|gwCYzywIm45c4gY1T7x7vklhuKkAkpdMBvjxANH1LNVMj|
-|-|Forcramsuig|
-|-|tweepy.TweepError=[{'code':32,'message':'Couldnotauthenticateyou.'}]|
-Thu Dec  3 15:29:23 UTC 2020
+Thu Dec  3 15:30:09 UTC 2020
