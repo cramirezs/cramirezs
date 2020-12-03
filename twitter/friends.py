@@ -7,6 +7,8 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
+logf = open("twitter/err.txt", "w")
+
 API_KEY = os.environ.get("API_KEY") 
 API_SECRET = os.environ.get("API_SECRET")
 
@@ -22,9 +24,8 @@ def main(args):
         for follower in tweepy.Cursor(api.followers, screen_name, count=200).items():
             sys.stdout.write(follower.screen_name)
             sys.stdout.write('\n')
-    except tweepy.TweepError:
-        print("tweepy.TweepError=")
-        print(e)
+    except tweepy.TweepError as e:
+        logf.write("For {0} tweepy.TweepError= {1}\n".format(str(screen_name), str(e)))
 
 if __name__ == "__main__":
     main(sys.argv)
