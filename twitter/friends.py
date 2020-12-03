@@ -26,7 +26,7 @@ def main(args):
             sys.stdout.write(follower.screen_name)
             sys.stdout.write('\n')
     except tweepy.TweepError:
-        print("tweepy.TweepError=", tweepy.TweepError)
+        print("tweepy.TweepError=")
     except Exception as e:
         print(e)
 
