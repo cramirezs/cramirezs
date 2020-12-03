@@ -47,9 +47,12 @@ jobs:
           ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
         run: |
           chmod +x twitter/friends.py
+          echo "Running friends.py"
           ./twitter/friends.py cramsuig > twitter/followers.txt
       - name: Compute diff
         run: |
+          echo "$(wc -l twitter/old_followers.txt)"
+          echo "$(wc -l twitter/followers.txt)"
           diff twitter/old_followers.txt twitter/followers.txt | grep "<" | tr -d "< " > twitter/out.txt
           diff twitter/old_followers.txt twitter/followers.txt | grep ">" | tr -d "> " > twitter/in.txt
           paste -d'|' twitter/out.txt twitter/in.txt | awk 'BEGIN{FS=OFS="|"} {print ($1=="" ? "|-" : "|"$1), ($2=="" ? "-|" : $2"|")}' > twitter/update.txt
