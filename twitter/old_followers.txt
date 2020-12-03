@@ -1,7 +1,1 @@
- o5jJtMJwRl0QaabPX5Cdq7f1S
-8ykGoOldmHL0D0Pv4TfLikhY5gtDvldV22F2ILijlGYyMbADTl
-2348651125-i8m0qwQ9Pn2JUEL1DtQ57FxtQQ2Axo2jH2Kxvz4
-gwCYzywIm45c4gY1T7x7vklhuKkAkpdMBvjxANH1LNVMj
-For cramsuig
-tweepy.TweepError= [{'code': 32, 'message': 'Could not authenticate you.'}]
 
