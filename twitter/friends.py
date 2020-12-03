@@ -13,8 +13,8 @@ API_SECRET = os.environ.get("API_SECRET")
 ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN")
 ACCESS_SECRET = os.environ.get("ACCESS_SECRET")
 
-print(type(ACCESS_TOKEN))
 print(ACCESS_TOKEN)
+print(ACCESS_SECRET)
 
 def main(args):
     screen_name = args[1]
