@@ -14,4 +14,6 @@ This table is automatically updated every eight hours with a list of Twitter use
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Thu Dec  3 15:11:49 UTC 2020
+|-|Forcramsuigtweepy.TweepError=[{'code':32,'message':'Couldnotauthenticateyou.'}]|
+|-|-|
+Thu Dec  3 15:16:38 UTC 2020
