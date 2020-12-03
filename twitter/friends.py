@@ -24,7 +24,6 @@ def main(args):
             sys.stdout.write('\n')
     except tweepy.TweepError:
         print("tweepy.TweepError=")
-    except Exception as e:
         print(e)
 
 if __name__ == "__main__":
