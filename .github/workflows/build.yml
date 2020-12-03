@@ -7,7 +7,10 @@ name: Fetch twitter diff
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 */8 * * *' # Runs every 8 hours
+    - cron:  '0 */20 * * *' # Runs every 20 hours
+  pull_request:
+    branches:
+      - main
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
