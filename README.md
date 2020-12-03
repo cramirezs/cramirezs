@@ -14,4 +14,22 @@ This table is automatically updated every eight hours with a list of Twitter use
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Thu Dec  3 19:31:29 UTC 2020
+|-|PauNunezV|
+|-|yavelozano|
+|-|JFabricioLH|
+|-|rdv_chio|
+|-|PRQuesadaMD|
+|-|DamGarGar|
+|-|AlejandroAgCa|
+|-|luci_rmz|
+|-|lcolladotor|
+|-|mariana_herrer2|
+|-|DavidAngeles13|
+|-|Jhonmart3|
+|-|PerezMedinaLu|
+|-|teregaviota|
+|-|IlchevLazar|
+|-|Ak1fK|
+|-|PJCCompBio|
+|-|SaraH86376664|
+Thu Dec  3 19:38:54 UTC 2020
