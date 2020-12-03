@@ -22,10 +22,11 @@ def main(args):
     api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
     try:
         for follower in tweepy.Cursor(api.followers, screen_name, count=200).items():
+            print(follower.screen_name)
             sys.stdout.write(follower.screen_name)
             sys.stdout.write('\n')
     except tweepy.TweepError:
-        print("tweepy.TweepError=")
+        print("tweepy.TweepError=", tweepy.TweepError)
     except Exception as e:
         print(e)
 
