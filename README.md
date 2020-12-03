@@ -10,8 +10,9 @@
 
 Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [Twitter](https://twitter.com/cramsuig).
 
-This table is automatically updated every 20 hours with a list of Twitter users who have followed me and unfollowed me. [Sina](https://github.com/sbooeshaghi) used Github Actions, the Twitter API, and the python package tweepy to automate this workflow.
+This table is automatically updated every eight hours with a list of Twitter users who have followed me and unfollowed me. [Sina](https://github.com/sbooeshaghi) used Github Actions, the Twitter API, and the python package tweepy to automate this workflow.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Thu Dec  3 20:07:55 UTC 2020
+|-|thecrowsgirl|
+Thu Dec  3 22:35:56 UTC 2020
