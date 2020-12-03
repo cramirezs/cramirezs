@@ -25,7 +25,7 @@ def main(args):
             sys.stdout.write(follower.screen_name)
             sys.stdout.write('\n')
     except tweepy.TweepError as e:
-        logf.write("For {0} tweepy.TweepError= {1}\n".format(str(screen_name), str(e)))
+        print("For {0} tweepy.TweepError= {1}\n".format(str(screen_name), str(e)))
 
 if __name__ == "__main__":
     main(sys.argv)
