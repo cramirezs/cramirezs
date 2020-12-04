@@ -14,4 +14,7 @@ This table is automatically updated every eight hours with a list of Twitter use
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Fri Dec  4 00:20:51 UTC 2020
+|-|MaxieC8|
+|-|DiegoPerva|
+|-|paovargtz|
+Fri Dec  4 20:08:00 UTC 2020
