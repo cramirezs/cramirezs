@@ -7,7 +7,7 @@ name: Fetch twitter diff
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 */20 * * *' # Runs every 20 hours
+    - cron:  '0 20 * * *' # Runs at minute 0 of the 20th hour
   push:
     branches:
       - main
@@ -51,8 +51,7 @@ jobs:
           ./twitter/friends.py cramsuig > twitter/followers.txt
       - name: Compute diff
         run: |
-          echo "$(wc -l twitter/old_followers.txt)"
-          echo "$(wc -l twitter/followers.txt)"
+          echo "$(date "+%Y-%m-%d %H:%M:%S")$(wc -l twitter/followers.txt | sed 's/ twi.*//')" >> twitter/followers_number.txt
           diff twitter/old_followers.txt twitter/followers.txt | grep "<" | tr -d "< " > twitter/out.txt
           diff twitter/old_followers.txt twitter/followers.txt | grep ">" | tr -d "> " > twitter/in.txt
           paste -d'|' twitter/out.txt twitter/in.txt | awk 'BEGIN{FS=OFS="|"} {print ($1=="" ? "|-" : "|"$1), ($2=="" ? "-|" : $2"|")}' > twitter/update.txt
