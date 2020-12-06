@@ -14,5 +14,5 @@ This table is automatically updated every eight hours with a list of Twitter use
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|sarahe145|
-Sat Dec  5 20:08:59 UTC 2020
+|-|HegewischSolloa|
+Sun Dec  6 20:09:31 UTC 2020
