@@ -14,5 +14,5 @@ This table is automatically updated every eight hours with a list of Twitter use
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|HegewischSolloa|
-Sun Dec  6 20:09:31 UTC 2020
+|MaxieC8|-|
+Mon Dec  7 20:09:30 UTC 2020
