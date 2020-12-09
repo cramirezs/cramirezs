@@ -14,5 +14,7 @@ This table is automatically updated every eight hours with a list of Twitter use
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|SENGLAITAN|BCuevasE|
-Tue Dec  8 20:09:30 UTC 2020
+|-|LuisEnrRa|
+|-|silviakspiva|
+|-|MaxieC8|
+Wed Dec  9 20:09:56 UTC 2020
