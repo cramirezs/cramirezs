@@ -14,4 +14,6 @@ This table is automatically updated every eight hours with a list of Twitter use
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Thu Dec 10 20:10:37 UTC 2020
+|MaxieC8|CinthiaCarter|
+|-|KuppeChristoph|
+Fri Dec 11 12:38:24 UTC 2020
