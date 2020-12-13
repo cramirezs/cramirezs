@@ -14,5 +14,5 @@ This table is automatically updated every eight hours with a list of Twitter use
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|Orozco__Daniela|
-Sat Dec 12 20:10:08 UTC 2020
+|-|Covid911s|
+Sun Dec 13 20:09:53 UTC 2020
