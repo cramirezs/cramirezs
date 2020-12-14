@@ -14,5 +14,7 @@ This table is automatically updated every eight hours with a list of Twitter use
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|Covid911s|
-Sun Dec 13 20:09:53 UTC 2020
+|-|JoshStolz2|
+|-|Bioinfo22782357|
+|-|Emma_34119|
+Mon Dec 14 20:10:09 UTC 2020
