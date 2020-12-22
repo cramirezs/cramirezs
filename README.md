@@ -10,9 +10,12 @@
 
 Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [Twitter](https://twitter.com/cramsuig).
 
-This table is automatically updated every eight hours with a list of Twitter users who have followed me and unfollowed me. [Sina](https://github.com/sbooeshaghi) used Github Actions, the Twitter API, and the python package tweepy to automate this workflow.
+[![Ciro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciro&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ciro's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=vijaybioinfo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+**Twitter's trend:**
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ithinkwellHugh|-|
-Tue Dec 22 11:17:09 UTC 2020
+Tue Dec 22 11:32:51 UTC 2020
