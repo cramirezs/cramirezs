@@ -1,7 +1,5 @@
 ### Hey there
 
-[[img/2020-12-29-23-14_seed_1767.png|width=100px]]
-
 - I am currently working at [Vijay's Lab](https://github.com/vijaybioinfo) investigating the immune system in the context of diseases like cancer, asthma, and viral infections.
 - My research interests include:
   + Computational modelling
@@ -9,6 +7,7 @@
   + Gene regulation
   + Single-cell multi-omics
   + Generative art
+  <img src="img/2020-12-29-23-14_seed_1767.png" width="150" height="150">
 - I am currently looking for a PhD Programme where I can expand and develop further my skills and the above interests.
 
 Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [Twitter](https://twitter.com/cramsuig).
@@ -21,4 +20,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Thu Dec 31 22:11:27 UTC 2020
+Thu Dec 31 22:21:46 UTC 2020
