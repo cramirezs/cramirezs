@@ -18,4 +18,5 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Wed Dec 30 20:16:42 UTC 2020
+|Strategy_Gal|-|
+Thu Dec 31 20:15:34 UTC 2020
