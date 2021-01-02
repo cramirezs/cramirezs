@@ -20,4 +20,6 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Fri Jan  1 20:15:24 UTC 2021
+|-|larisacodes|
+|-|Aldernero|
+Sat Jan  2 20:14:40 UTC 2021
