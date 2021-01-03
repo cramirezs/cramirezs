@@ -20,6 +20,5 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|larisacodes|
-|-|Aldernero|
-Sat Jan  2 20:14:40 UTC 2021
+|bandaga_bioongo|-|
+Sun Jan  3 20:16:08 UTC 2021
