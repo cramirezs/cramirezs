@@ -20,6 +20,5 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|cosmico_f|
-|-|Pao_23|
-Wed Jan 13 20:34:14 UTC 2021
+|-|TelloPalencia|
+Thu Jan 14 20:34:21 UTC 2021
