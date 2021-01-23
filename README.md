@@ -20,5 +20,7 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|carter_allen_|
-Fri Jan 22 20:36:16 UTC 2021
+|-|GliaAlzheimers|
+|-|ivanoamelio|
+|-|SCYamamotto|
+Sat Jan 23 20:32:10 UTC 2021
