@@ -20,7 +20,5 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|GliaAlzheimers|
-|-|ivanoamelio|
-|-|SCYamamotto|
-Sat Jan 23 20:32:10 UTC 2021
+|SCYamamotto|-|
+Sun Jan 24 20:33:41 UTC 2021
