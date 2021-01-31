@@ -20,4 +20,6 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sat Jan 30 20:11:29 UTC 2021
+|-|burak_kutlu_|
+|-|bandaga_bioongo|
+Sun Jan 31 20:11:29 UTC 2021
