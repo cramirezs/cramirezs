@@ -20,4 +20,6 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sat Feb  6 20:09:32 UTC 2021
+|-|kaalam_ai|
+|-|kevinwuhoo|
+Sun Feb  7 20:09:42 UTC 2021
