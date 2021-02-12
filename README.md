@@ -20,6 +20,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|ljiresearch|
-|-|majorocha98|
-Thu Feb 11 20:10:05 UTC 2021
+Fri Feb 12 20:10:08 UTC 2021
