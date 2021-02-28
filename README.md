@@ -20,8 +20,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Nicole_83636|-|
-|Emma_34119|-|
-|Adela_28872|-|
-|Jennifer_23588|-|
-Sat Feb 27 20:10:27 UTC 2021
+Sun Feb 28 20:10:11 UTC 2021
