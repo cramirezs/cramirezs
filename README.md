@@ -20,6 +20,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|epeters_Rdch|
-|-|haydeedeluna_TW|
-Fri Apr  9 20:15:14 UTC 2021
+Sat Apr 10 20:14:39 UTC 2021
