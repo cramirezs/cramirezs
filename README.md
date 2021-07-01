@@ -20,5 +20,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|jvelezmagic|
-Wed Jun 30 20:10:50 UTC 2021
+Thu Jul  1 20:12:15 UTC 2021
