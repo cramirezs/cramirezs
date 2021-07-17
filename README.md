@@ -16,8 +16,10 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com, or on [
 
 [![Ciro's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=cramirezs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-**Twitter's trend:**
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cirost&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+#### Twitter's trend:
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sat Jul 17 23:47:07 UTC 2021
+Sat Jul 17 23:48:58 UTC 2021
