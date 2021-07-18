@@ -38,10 +38,10 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 ## What I like to listen to 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cirost&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cirost&cover_image=false&theme=default)](https://open.spotify.com/user/cirost)
 
 #### Twitter's trend:
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sun Jul 18 00:14:28 UTC 2021
+Sun Jul 18 00:26:57 UTC 2021
