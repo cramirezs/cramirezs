@@ -20,6 +20,18 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 [<img align="left" alt="ciro | GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=MnHV_-QAAAAJ&hl=en)
 <br>
 
+## Languages+
+
+<img align="left" alt="Terminal" width="26px" src="https://avatars.githubusercontent.com/u/1089146?s=200&v=4" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terminal/terminal.png" />
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Conda" width="26px" src="https://avatars2.githubusercontent.com/u/6392739?s=200&v=4" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://avatars.githubusercontent.com/u/1120885?s=200&v=4" />
+<br><br>
+
 [![Ciro's GitHub stats](https://github-readme-stats.vercel.app/api?username=cramirezs&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ciro's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=cramirezs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -32,4 +44,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sun Jul 18 00:06:47 UTC 2021
+Sun Jul 18 00:14:28 UTC 2021
