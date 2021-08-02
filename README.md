@@ -44,9 +44,6 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|Silverl10417563|
-|-|CienciayEsquina|
-|-|levin_bertrandt|
-|-|jehanfranco4|
-|-|khartab|
-Sun Aug  1 20:11:33 UTC 2021
+|-|SYMD_ManiP|
+|-|AndrewHolding|
+Mon Aug  2 20:11:28 UTC 2021
