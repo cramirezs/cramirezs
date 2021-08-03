@@ -44,6 +44,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|SYMD_ManiP|
-|-|AndrewHolding|
-Mon Aug  2 20:11:28 UTC 2021
+Tue Aug  3 20:13:14 UTC 2021
