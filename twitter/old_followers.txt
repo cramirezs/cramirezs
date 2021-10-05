@@ -8,7 +8,6 @@ AllThingsBNF
 arantxieortega
 irayari
 vivek37373
-MrScienceFox
 SYMD_ManiP
 AndrewHolding
 Silverl10417563
@@ -216,7 +215,6 @@ linaloepat
 Miguel_ParraG
 elbarazarte
 JessicaDanielly
-pepetonito
 CarminaBarJon
 anaskouu
 astmarce
