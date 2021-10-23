@@ -44,6 +44,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|MrScienceFox|
-|-|pepetonito|
-Fri Oct 22 20:11:53 UTC 2021
+Sat Oct 23 20:11:12 UTC 2021
