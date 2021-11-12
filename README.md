@@ -44,6 +44,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|EdOBrie66657738|
-|-|iamggurjar|
-Thu Nov 11 20:12:39 UTC 2021
+Fri Nov 12 20:11:55 UTC 2021
