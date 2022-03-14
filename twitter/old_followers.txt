@@ -1,6 +1,6 @@
+g_palla1
 SikkemaLisa
 Mo_lotf
-OmarDzaye
 LukasHeumos
 Sithijaw_
 rrrafa61
@@ -27,7 +27,6 @@ CienciayEsquina
 levin_bertrandt
 jehanfranco4
 khartab
-UN_ITED_NATIONS
 ALiobani
 jvelezmagic
 ramgonzalezb
