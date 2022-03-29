@@ -1,4 +1,3 @@
-sentigral
 StemmGlobal
 MDLuecken
 g_palla1
