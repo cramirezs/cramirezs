@@ -44,6 +44,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|MariaJosPalma1|LaurelCoons|
-|-|MaxolotlMad|
-Tue Apr 26 20:14:34 UTC 2022
+Wed Apr 27 20:14:46 UTC 2022
