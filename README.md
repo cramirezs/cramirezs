@@ -44,6 +44,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|rhi_chadwick|ivirshup|
-|-|KuijsMerel|
-Tue May 17 20:14:19 UTC 2022
+Wed May 18 20:14:47 UTC 2022
