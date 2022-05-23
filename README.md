@@ -44,5 +44,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|lcgunam|adzsroka|
-Sun May 22 20:13:48 UTC 2022
+Mon May 23 20:15:02 UTC 2022
