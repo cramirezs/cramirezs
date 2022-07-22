@@ -44,7 +44,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|ozgungokce|
-|-|kemalinecik|
-|-|DiegoPerva|
-Thu Jul 21 20:15:04 UTC 2022
+Fri Jul 22 20:14:44 UTC 2022
