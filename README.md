@@ -44,6 +44,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|MrScienceFox|pepetonito|
-|Silverl10417563|oldcardigan2012|
-Tue Jul 26 20:14:08 UTC 2022
+Wed Jul 27 20:14:17 UTC 2022
