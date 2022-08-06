@@ -44,4 +44,5 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Fri Aug  5 20:13:56 UTC 2022
+|CienciayEsquina|CarlosFrdez|
+Sat Aug  6 20:13:10 UTC 2022
