@@ -44,6 +44,5 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|oldcardigan2012|popsicl_midn8|
-|-|yusufdawodnazar|
-Sun Sep 11 20:15:10 UTC 2022
+|yusufdawodnazar|-|
+Mon Sep 12 20:15:45 UTC 2022
