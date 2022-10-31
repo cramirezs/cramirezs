@@ -44,5 +44,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bernsmq|GH_Berman|
-Sun Oct 30 20:14:47 UTC 2022
+Mon Oct 31 20:16:11 UTC 2022
