@@ -44,6 +44,5 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|LauraNoSad|_mossishahi|
-|-|MandysrArchibal|
-Thu Nov 10 20:15:33 UTC 2022
+|-|GooglingBioinfo|
+Fri Nov 11 20:14:45 UTC 2022
