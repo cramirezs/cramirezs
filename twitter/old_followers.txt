@@ -1,5 +1,4 @@
 PengHeCam
-SamanthavtMacdu
 dnatieclub
 alitinets
 gt_package
