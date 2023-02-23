@@ -44,6 +44,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Daianna27635327|daianna_glez|
-|melancronico|neuro_david|
-Wed Feb 22 20:12:38 UTC 2023
+Thu Feb 23 20:12:56 UTC 2023
