@@ -44,10 +44,5 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|_DataGal|
-|-|xlth|
-|-|PeymaniF|
-|-|Mojica_inc|
-|-|LH33837868|
-|-|TillRichter6|
-Fri Mar 10 20:12:07 UTC 2023
+|-|_MakiOze|
+Sat Mar 11 20:11:16 UTC 2023
