@@ -44,5 +44,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|tweepy.TweepError=[{'code':32,'message':'Couldnotauthenticateyou.'}]|tweepy.TweepError=[{'message':'YoucurrentlyhaveaccesstoasubsetofTwitterAPIv2endpointsandlimitedv1.1endpoints(e.g.mediapost,oauth)only.Ifyouneedaccesstothisendpoint,youmayneedadifferentaccesslevel.Youcanlearnmorehere:https://developer.twitter.com/en/portal/product','code':453}]|
-Wed Jun 14 20:10:53 UTC 2023
+Thu Jun 15 20:10:47 UTC 2023
