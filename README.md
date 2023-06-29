@@ -44,5 +44,5 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|jasonvassy|-|
-Wed Jun 28 20:12:20 UTC 2023
+|-|nminsights|
+Thu Jun 29 20:11:53 UTC 2023
