@@ -1,4 +1,3 @@
-nminsights
 ozil_optimist
 mllprada
 Dominik1Klein
