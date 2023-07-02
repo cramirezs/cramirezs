@@ -44,5 +44,4 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|nminsights|-|
-Sat Jul  1 20:11:12 UTC 2023
+Sun Jul  2 20:11:40 UTC 2023
