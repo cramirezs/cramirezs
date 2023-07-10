@@ -44,4 +44,6 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sun Jul  9 20:11:36 UTC 2023
+|-|juhyunk_|
+|-|Seyoon_L|
+Mon Jul 10 20:12:20 UTC 2023
