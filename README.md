@@ -1,6 +1,6 @@
 ### Hey there
 
-- I am currently working at [Vijay's Lab](https://github.com/vijaybioinfo) investigating the immune system in the context of diseases like cancer, asthma, and viral infections.
+- Bioinformatician with research experience on the immune system in the context of diseases like cancer, asthma, and viral infections.
 - My research interests include:
   + Computational modelling
   + Bioinformatics and software development
