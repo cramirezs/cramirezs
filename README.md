@@ -37,7 +37,8 @@ Please feel free to contact me to ciro@lji.org or ksuasteguic@gmail.com.
 
 ## What I like to listen to 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cirost&cover_image=false&theme=default)](https://open.spotify.com/user/cirost)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cirost&cover_image=false&theme=default)](https://open.spotify.com/user/cirost)
 
 #### Twitter's trend:
 
