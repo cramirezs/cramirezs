@@ -8,7 +8,6 @@
   + Single-cell multi-omics
   + Generative art
   <img src="img/2020-12-29-23-14_seed_1767.png" width="150" height="150">
-- I am currently looking for a PhD Programme where I can expand and develop further my skills and the above interests.
 
 ## Contact
 
